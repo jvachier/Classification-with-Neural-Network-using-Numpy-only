@@ -14,3 +14,5 @@ Three Networks are built: <br>
 In the three Networks, the activation function for the intermediate layers is ReLu and the accuracy is computed. Moreover, the cost function used is the mean squared error (MSE). In the case of the first Neural Network, two backward propagations are used to show that it is not necessary to include the activation function of the output layer in the computations (appendix - 2 Layers with Sigmoid 2). In addition, to see the effect of the learning rate in the third Neural Network, two values are used and the accuracy is compared (appendix). <br>
 
 The three Networks are first trained independently on the training set and then tested using the test set. The accuracy reaches almost $99\%$.
+
+(Additionally, this code is also available on my Kaggle profile at )
