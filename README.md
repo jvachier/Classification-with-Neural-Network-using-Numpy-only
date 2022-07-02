@@ -15,4 +15,4 @@ In the three Networks, the activation function for the intermediate layers is Re
 
 The three Networks are first trained independently on the training set and then tested using the test set. The accuracy reaches almost $99\%$.
 
-(Additionally, this code is also available on my Kaggle profile at )
+(Additionally, this code is also available on my Kaggle profile at https://www.kaggle.com/code/jvachier/classification-with-neural-network-using-numpy)
