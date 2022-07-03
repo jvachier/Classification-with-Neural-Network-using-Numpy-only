@@ -4,7 +4,7 @@ Author: jvachier <br>
 Creation date: June 2022 <br>
 Publication date: July 2022 <br>
 
-My goal is to classify $10$ digits from $0$ to $9$ with Neural Networks using Numpy only. The training set (train.csv) contains $42 000$ labelled pictures and the testing set (test.csv) contains $28 000$ non-labelled pictures. Each picture has $789$ pixels ($28 \times 28$) and is the input size of the network. (data from https://www.kaggle.com/c/digit-recognizer) <br>
+My goal is to classify $10$ digits from $0$ to $9$ with Neural Networks using Numpy only. The training set (train.csv) contains $42 000$ labelled pictures and the testing set (test.csv) contains $28 000$ non-labelled pictures. Each picture has $784$ pixels ($28 \times 28$) and is the input size of the network. (data from https://www.kaggle.com/c/digit-recognizer) <br>
 
 Three Networks are built: <br> 
 * 1 - Two Layers Neural Network with Sigmoid (2 Layers with Sigmoid 1), using a sigmoid activation function for the output layer. After the input, the first layer is composed of $20$ neurons. The second layer (the output layer) contains $10$ neurons as $10$ digits are classified. <br><br>
